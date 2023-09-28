@@ -1,4 +1,4 @@
-// 905. Sort Array By Parity
+// 905. Sorting  Array By Parity(odd , even) Leetcode
 
 // we will check first element whether it's odd or even;
 // if it's even then we will just move ahead by icrementing our 'i' pointer;
